@@ -1,1 +1,2 @@
 # odin-recipes
+I want to appreciate odin project team for their effort in this program. So far i learnt how to create  an HTML file, html tags, links to other pages both internal and external, display image etc. Eager to learn more through practice. The recipe project will help me put in practice what i have learnt.
